@@ -1,0 +1,9 @@
+
+
+Here some text of my text file
+To CrEnd the creation of our file simples Crontol + C
+Crtl + C and that saves and close the file
+To Edit the file you can simople use Nano to use simple edit stuff
+And the Control + O, Control + X
+...
+
